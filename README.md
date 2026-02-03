@@ -17,8 +17,9 @@ Analisar o desempenho das vendas da cafeteria, comparando os tipos de cafés ven
 - Margem de Lucro % x Tipo de Café
 
 ## 🖼️ Dashboard
-![Dashboard](imagens/Analise_Cafeteria_Portfolio.png)
+![Dashboard](Imagens/Analise_Cafeteria_Portfolio.png)
 
 ## 📂 Arquivos
-- `dashboard.pbix`
-- `dashboard.pdf`
+- `Analise_Cafeteria_Portfolio.pbix`
+- `Analise_Cafeteria_Portfolio.pdf`
+
