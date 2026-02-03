@@ -20,6 +20,7 @@ Analisar o desempenho das vendas da cafeteria, comparando os tipos de cafés ven
 ![Dashboard](Imagens/Analise_Cafeteria_Portfolio.png)
 
 ## 📂 Arquivos
-- `Analise_Cafeteria_Portfolio.pbix`
-- `Analise_Cafeteria_Portfolio.pdf`
+- [📊 Download do Dashboard (.pbix)](Analise_Cafeteria_Portfolio.pbix)
+- [📄 Relatório em PDF](Analise_Cafeteria_Portfolio.pdf)
+
 
